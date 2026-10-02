@@ -1,8 +1,8 @@
 # Osservazioni — Esercitazione 0
 
-Gruppo:
+Gruppo: 26
 
-Componenti (nome, cognome e username GitHub di entrambi):
+Componenti (nome, cognome e username GitHub di entrambi): 
 
 URL del repository condiviso:
 
